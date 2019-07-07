@@ -12,7 +12,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Teaacher</title>
+    <title>Teacher</title>
 
     <link href="${contextPath}/resources/css/bootstrap.min.css" rel="stylesheet">
 </head>
