@@ -25,7 +25,8 @@
         </form>
         <h2>Teacher Page for ${pageContext.request.userPrincipal.name} | <a onclick="document.forms['logoutForm'].submit()">Logout</a>
         </h2>
-        <h4 href="${contextPath}/groups">Back to Groups</h4>
+        <br>
+        <h4 class="text-center"><a href="${contextPath}/groups">Back to Groups </a></h4>
     </c:if>
 </div>
 
